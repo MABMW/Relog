@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relog", "Relog\Relog.csproj", "{DEFAB6A4-39B8-4D2F-A9AD-3CFE700A3EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFAB6A4-39B8-4D2F-A9AD-3CFE700A3EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFAB6A4-39B8-4D2F-A9AD-3CFE700A3EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFAB6A4-39B8-4D2F-A9AD-3CFE700A3EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFAB6A4-39B8-4D2F-A9AD-3CFE700A3EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4824653B-3A57-4396-9FD2-19FCCE746F89}
+	EndGlobalSection
+EndGlobal

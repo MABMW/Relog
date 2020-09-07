@@ -1,0 +1,16 @@
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\Relog.exe.config
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\Relog.exe
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\Relog.pdb
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.csprojAssemblyReference.cache
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.Form1.resources
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.Properties.Resources.resources
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.csproj.GenerateResource.cache
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.csproj.CoreCompileInputs.cache
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.exe
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.pdb
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\CircularProgressBar.dll
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\WinFormAnimation.dll
+C:\Users\Adalberto\source\repos\Relog\Relog\obj\Debug\Relog.csproj.CopyComplete
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\MetroFramework.Design.dll
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\MetroFramework.dll
+C:\Users\Adalberto\source\repos\Relog\Relog\bin\Debug\MetroFramework.Fonts.dll
